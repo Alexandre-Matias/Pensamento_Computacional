@@ -24,7 +24,7 @@ SE encontrado ENTÃO
         Exibir "Entrada NEGADA! Nome não encontrado."
     FIMSE
 
-    Ler próximo nomeAluno
+   Ler próximo nomeAluno
     
 FIMENQUANTO
 
