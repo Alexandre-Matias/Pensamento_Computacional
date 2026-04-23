@@ -1,4 +1,4 @@
----
+
 
 # **Evolução das Máquinas e o Pensamento Computacional**
 
@@ -10,7 +10,7 @@
 * **Invento/Avanço:** O Ábaco.
 * **Contribuição:** Foi um dos primeiros e mais duradouros instrumentos de cálculo, permitindo a realização de operações aritméticas básicas de forma manual. Sua estrutura de representação numérica e manipulação física de informações serviu como um precursor conceitual para a manipulação de dados em sistemas digitais.
 
----
+
 
 ### **2. Máquina Analítica de Charles Babbage**
 
@@ -18,7 +18,6 @@
 * **Invento/Avanço:** O conceito da Máquina Analítica.
 * **Contribuição:** Projetada por Charles Babbage, é considerada o primeiro projeto de um computador mecânico de uso geral. Embora nunca tenha sido totalmente construída em sua época, introduziu conceitos fundamentais como unidade lógica e aritmética (ULA), controle de fluxo por cartões perfurados e memória integrada, que são a base dos computadores modernos. Ada Lovelace, ao escrever algoritmos para esta máquina, é reconhecida como a primeira programadora.
 
----
 
 ### **3. ENIAC (Electronic Numerical Integrator and Computer)**
 
