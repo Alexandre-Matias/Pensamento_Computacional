@@ -1,0 +1,27 @@
+INICIO
+
+Definir lista de alunos
+Ler nome do aluno
+
+ENQUANTO nome ≠ "FIM" FAÇA
+    encontrado ← falso
+
+    PARA cada aluno na lista FAÇA
+        SE nome = aluno ENTÃO
+            encontrado ← verdadeiro
+            PARAR
+        FIMSE
+    FIMPARA
+
+    SE encontrado ENTÃO
+        Exibir "Entrada permitida"
+    SENÃO
+        Exibir "Entrada negada"
+    FIMSE
+
+    Ler próximo nome
+FIMENQUANTO
+
+FIM
+
+--------------------------------------------------------------------------------
