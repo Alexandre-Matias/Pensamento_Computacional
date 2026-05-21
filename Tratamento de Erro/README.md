@@ -22,9 +22,8 @@ O projeto consiste em uma calculadora de operações básicas desenvolvida em Py
 
 | Nome | Matrícula |
 |------|-----------|
-| Integrante 1 | xxxxxxxxx |
-| Integrante 2 | xxxxxxxxx |
-| Integrante 3 | xxxxxxxxx |
+| Integrante 1 | Alexandre|
+
 
 ---
 
